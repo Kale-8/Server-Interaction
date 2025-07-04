@@ -1,28 +1,28 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Laptop Lenovo",
       "price": 2499.99,
       "category": "Computadoras"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Monitor LG",
       "price": 799.99,
       "category": "Monitores"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Mouse Logitech",
       "price": 89.9,
       "category": "Accesorios"
     },
     {
-      "id": 4,
       "name": "Teclado Mecánico",
-      "price": 199.99,
-      "category": "Accesorios"
+      "price": 49.99,
+      "category": "Accesorios",
+      "id": "4"
     }
   ]
 }
