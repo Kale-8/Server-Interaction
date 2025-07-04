@@ -2,27 +2,27 @@
   "products": [
     {
       "id": "1",
-      "name": "Laptop Lenovo",
+      "name": "Lenovo Laptop",
       "price": 2499.99,
-      "category": "Computadoras"
+      "category": "Computers"
     },
     {
       "id": "2",
-      "name": "Monitor LG",
+      "name": "LG Monitor",
       "price": 799.99,
-      "category": "Monitores"
+      "category": "Displays"
     },
     {
       "id": "3",
-      "name": "Mouse Logitech",
+      "name": "Logitech Mouse",
       "price": 89.9,
-      "category": "Accesorios"
+      "category": "Accessories"
     },
     {
-      "name": "Teclado Mecánico",
+      "id": "4",
+      "name": "Mechanical Keyboard",
       "price": 149.99,
-      "category": "Accesorios",
-      "id": "4"
+      "category": "Accessories"
     }
   ]
 }
