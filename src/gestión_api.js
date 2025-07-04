@@ -19,7 +19,7 @@ const newProduct = {
     price: 249.50,
     category: "Audio"
 };
-
+//
 // try {
 //     const response = await axios.post('http://localhost:3000/products', newProduct);
 //     console.log('Producto agregado:', newProduct);
